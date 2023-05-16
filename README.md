@@ -7,6 +7,8 @@ Just clone the repository and execute every cell in `start.ipynb`. Not forget to
 ## Results
 For a more consistent comparison, four datasets of different sizes (specifically 8.40, 16.80, 25.19, and 33.59 MB) will be used. From each dataset, five random words will be extracted, and these will be used to measure the execution time of each algorithm.
 
+The data used in this comparison were extrated from <a>https://www.kaggle.com/datasets/sunnysai12345/news-summary</a>.
+
 <p align="center">
     <img src="./src/img/size_text.png" height="300px"/> 
 </p>

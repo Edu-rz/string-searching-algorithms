@@ -10,7 +10,7 @@ For a more consistent comparison, four datasets of different sizes (specifically
 The data used in this comparison were extrated from <a>https://www.kaggle.com/datasets/sunnysai12345/news-summary</a>.
 
 <p align="center">
-    <img src="./src/img/size_text.png" height="300px"/> 
+    <img src="./src/img/size_text.png" height="500px"/> 
 </p>
 
 ### Z algorithm
@@ -23,5 +23,7 @@ Execution time (in seconds) for `Anagram Search` per each word and dataset.
 
 ### Comparison
 Average execution time (in seconds) per algorithm and dataset.
-<img src="./src/img/comparison.png"/> 
+<p align="center">
+    <img src="./src/img/comparison.png" height="400px"/> 
+</p>
 In conclusion, both algorithm have done a good job, but `Z algorithm` proves to be better than `Anagram Search` in terms of efficiently.
